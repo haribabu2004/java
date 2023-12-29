@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "Codechef",
+            "request": "launch",
+            "mainClass": "Codechef",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "DAY5",
+            "request": "launch",
+            "mainClass": "DAY5",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "Daay3",
+            "request": "launch",
+            "mainClass": "Daay3",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "Day1",
+            "request": "launch",
+            "mainClass": "Day1",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "Day3",
+            "request": "launch",
+            "mainClass": "Day3",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "DemoApp1",
+            "request": "launch",
+            "mainClass": "DemoApp1",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "ThrowDemo",
+            "request": "launch",
+            "mainClass": "ThrowDemo",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "abtp1",
+            "request": "launch",
+            "mainClass": "abtp1",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "clas_obj",
+            "request": "launch",
+            "mainClass": "clas_obj",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "coll",
+            "request": "launch",
+            "mainClass": "coll",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "day4",
+            "request": "launch",
+            "mainClass": "day4",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "day6",
+            "request": "launch",
+            "mainClass": "day6",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "handling",
+            "request": "launch",
+            "mainClass": "handling",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "interF",
+            "request": "launch",
+            "mainClass": "interF",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "new1",
+            "request": "launch",
+            "mainClass": "new1",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "overload",
+            "request": "launch",
+            "mainClass": "overload",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "overload1",
+            "request": "launch",
+            "mainClass": "overload1",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "pali",
+            "request": "launch",
+            "mainClass": "pali",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "prac1",
+            "request": "launch",
+            "mainClass": "prac1",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "strbuff",
+            "request": "launch",
+            "mainClass": "strbuff",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "threadja",
+            "request": "launch",
+            "mainClass": "threadja",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "threadjava",
+            "request": "launch",
+            "mainClass": "threadjava",
+            "projectName": "java_c5ebecfa"
+        },
+        {
+            "type": "java",
+            "name": "trans",
+            "request": "launch",
+            "mainClass": "trans",
+            "projectName": "java_c5ebecfa"
+        }
+    ]
+}
